@@ -34,6 +34,8 @@
  <access origin="htpps://*/*"/>
  <allow-intent href="http://*/*"/>
  <access origin="htpp://*/*"/>
+ <access origin="*" />
+ <allow-intent href="*" />
  <plugin name="cordova-plugin-whitelist" source="npm"/>
  
  <!-- Colocar icono app-->
