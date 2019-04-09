@@ -31,8 +31,9 @@
  
  <!-- Para accesar a paginas en internet-->
  <allow-intent href="htpps://*/*" />
+ <access origin="htpps://*/*" />
  <allow-intent href="http://*/*" />
- <access origin="*" />
+ <access origin="htpp://*/*" />
  <plugin name="cordova-plugin-whitelist" source="npm"/>
  
  <!-- Colocar icono app-->
