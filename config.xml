@@ -32,7 +32,6 @@
  <!-- Para accesar a paginas en internet-->
  <allow-intent href="htpps://*/*" />
  <allow-intent href="http://*/*" />
- <allow-navigation href="http://*/*" />
  <access origin="*" />
  <plugin name="cordova-plugin-whitelist" source="npm"/>
  
